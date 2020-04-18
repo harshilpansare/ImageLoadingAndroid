@@ -1,0 +1,2 @@
+include ':app', ':glide2', ':pagination'
+rootProject.name='ImageLoading'
